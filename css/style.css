@@ -89,11 +89,12 @@
 
 .navbar_container {
     height: 50px;
+    display: flex;
 }
 
 .navbar {
     display: flex;
-    justify-content: space-between;
+    width: 100%;
 }
 
 .navbar_links {
